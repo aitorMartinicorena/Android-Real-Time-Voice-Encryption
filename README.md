@@ -4,7 +4,7 @@ This is the project containing the implementation of the Android Real-Time Voice
 
 The contents of the project are stored in Downloads/Project.
 
-The folder VoipCryptoCall stores the files of the Android project.
+The folder VoipCryptoCall stores the files of the Android project, implemented in Android Studio.
 
 The VoipCryptoCall.apk is an installation file for the application. It has to be transferred to the mobile phones and selected. This will start the installation process.
 
