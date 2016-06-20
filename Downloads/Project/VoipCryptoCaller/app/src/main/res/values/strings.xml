@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">VoIP Crypto Caller</string>
+    <string name="get_contacts">Contacts</string>
+    <string name="toNumber">Introduce number</string>
+    <string name="toList">Choose contact</string>
+    <string name="title_activity_number">Introduce a number</string>
+    <string name="title_activity_list">ListActivity</string>
+    <string name="introduceNumber">Introduce a number to call...</string>
+    <string name="toCall">Call this number</string>
+    <string name="title_activity_call">CallActivity</string>
+    <string name="calling">Calling...</string>
+    <string name="title_activity_calling">Calling...</string>
+    <string name="accept">Accept call</string>
+    <string name="ignore">Ignore call</string>
+    <string name="selectionCallMessage">You are receiving a call from:</string>
+    <string name="voidNumber">Can\'t show the number</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="buttonLogin">Login</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+</resources>
